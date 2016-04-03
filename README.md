@@ -1,4 +1,5 @@
 == README
+This is the initial first application of the following app.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
